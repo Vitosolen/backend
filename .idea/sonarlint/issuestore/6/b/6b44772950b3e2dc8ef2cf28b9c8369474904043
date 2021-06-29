@@ -1,0 +1,8 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(ÆøñÏüÿÿÿÿ8™…ïÅ×.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‚îÙ¸ûÿÿÿÿ8ŞÑÂÅ×.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§²§8ë¿ÑÅ×.
+M
+java:S2201"+The return value of "replace" must be used.(¹õËÄüÿÿÿÿ8üŸîÅ×.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(´›¶‰8™…ïÅ×.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(èœ®…ÿÿÿÿÿ8éâëÅ×.

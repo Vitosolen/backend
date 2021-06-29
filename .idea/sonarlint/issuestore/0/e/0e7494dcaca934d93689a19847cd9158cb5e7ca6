@@ -1,0 +1,17 @@
+
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(๚ท•þÿÿÿÿ8๛ษ๔รื.
+c
+java:S3457#"AFormat specifiers should be used instead of string concatenation.(๚ท•þÿÿÿÿ8๛ษ๔รื.
+c
+java:S3457"AFormat specifiers should be used instead of string concatenation.(่เ๛ýÿÿÿÿ8๛ษ๔รื.
+K
+java:S2201+".The return value of "replaceAll" must be used.(ฐÜ“8ฟÿรื.
+X	java:S125"<This block of commented-out lines of code should be removed.(ตฮย8๛ษ๔รื.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(่เ๛ýÿÿÿÿ8๛ษ๔รื.
+^
+java:S3457,"AFormat specifiers should be used instead of string concatenation.(ด–Ýง8ฟÿรื.
+`
+java:S2583"CChange this condition so that it does not always evaluate to "true"(พทฆป8๛ษ๔รื.
+e
+java:S5361+"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ฐÜ“8ฟÿรื.
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ด–Ýง8ฟÿรื.
